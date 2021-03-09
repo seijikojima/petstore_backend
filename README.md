@@ -10,5 +10,8 @@ get
 curl localhost:3000/api/getTest?name=seijikojima  
   
 post  
-curl -X POST localhost:3000/api/postTest -d "name=seijikojima"
+curl -X POST localhost:3000/api/postTest -d "name=seijikojima"  
+  
+add hoge # ここにhogeを加えてもいいですか?  
+  
 
