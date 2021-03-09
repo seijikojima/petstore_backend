@@ -14,4 +14,4 @@ curl -X POST localhost:3000/api/postTest -d "name=seijikojima"
   
 add hoge # ここにhogeを加えてもいいですか?  
   
-
+add fuga # ここにfugaを加えます．
